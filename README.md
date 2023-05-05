@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Petur Ivanov</h1>
 <h3 align="center">Advanced student with Python at SoftUni from Bulgaria</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peturivanov&label=Profile%20views&color=0e75b6&style=flat" alt="peturivanov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peturivanov" alt="peturivanov" /></a> </p>
+<img align="right" alt="python" width="400" src="https://cdn.dribbble.com/users/1774577/screenshots/5952296/media/8a75cfa1bdf74f3bff0ff726013bc605.png?compress=1&resize=1000x750&vertical=top">
 
 - 🌱 I’m currently learning **Python advance**
 
