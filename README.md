@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif" alt="Example image" width="1000" height="600">
+<img src="https://cdn.dribbble.com/users/510430/screenshots/6749707/programar.gif" alt="Example image" width="1000" height="500">
 
 
 <h1 align="center">Hi 👋, I'm Petur Ivanov</h1>
