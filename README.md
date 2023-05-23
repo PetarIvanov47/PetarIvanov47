@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src=https://356labs.com/wp-content/uploads/2019/04/356labs_Prezi_How-to-use-icons-and-symbols_Blog.png alt="Example image" width="1000" height="500">
+<img src=https://356labs.com/wp-content/uploads/2019/04/356labs_Prezi_How-to-use-icons-and-symbols_Blog.png alt="Example image" width="1000" height="400">
 
 
 <h1 align="center">Hi 👋, I'm Petur Ivanov</h1>
