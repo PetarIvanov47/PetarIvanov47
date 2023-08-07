@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img align="right" alt="python" width="400" src="https://cdn.dribbble.com/users/1774577/screenshots/5952296/media/8a75cfa1bdf74f3bff0ff726013bc605.png?compress=1&resize=1000x750&vertical=top">
+  
 <a href="https://fb.com/petur ivanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="petur ivanov" height="30" width="40" /></a>
 <a href="https://instagram.com/petur.ivanov12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="petur.ivanov12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/petur.ivanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="petur.ivanov" height="30" width="40" /></a>
