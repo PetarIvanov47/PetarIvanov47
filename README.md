@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Petur Ivanov</h1>
 <h3 align="center">Advanced student with Python at SoftUni from Bulgaria</h3>
 
+### About Me
+
 - 🌱 I’m currently learning **Python, Algorithms, Database**
 
 - 💬 Ask me about **Python**
