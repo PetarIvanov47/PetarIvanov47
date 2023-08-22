@@ -1,6 +1,12 @@
-<h3 align="center">Hi  there, I'm Petur👋</h3>
+<h1 align="center">Hi  there, I'm Petur👋</h1>
 
-<div align="center">
+<img align="right" height="100" src="https://files.realpython.com/media/Django-Rest-Framework-An-Introduction_Watermarked.7c1075fb2093.jpg" />
+
+<p align="left">- 🔭 I’m currently working on [event-manager](https://github.com/PeturIvanov/event-manager)<br>- 📚 I’m currently learning Python, Django, PostgreSQL, Html, CSS<br>- 👨‍🏫 I'm student at SoftUni<br>-⚡ Fun fact: I love self-development and do active sport.</p>
+
+---
+<div align="left">
+  <h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/petur-ivanov-6b558a275/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
@@ -11,12 +17,6 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
   </a>
 </div>
-
----
-
-<img align="right" height="100" src="https://files.realpython.com/media/Django-Rest-Framework-An-Introduction_Watermarked.7c1075fb2093.jpg" />
-
-<p align="left">- 🔭 I’m currently working on [event-manager](https://github.com/PeturIvanov/event-manager)<br>- 📚 I’m currently learning Python, Django, PostgreSQL, Html, CSS<br>- 👨‍🏫 I'm student at SoftUni<br>-⚡ Fun fact: I love self-development and do active sport.</p>
 
 ---
 
