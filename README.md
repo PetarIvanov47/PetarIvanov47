@@ -1,32 +1,24 @@
-<h1 align="center">Hi  there, I'm Petur👋</h1>
-
-###
-
-<h3 align="center">Advanced student at SoftUni</h3>
-
-###
+<h3 align="center">Hi  there, I'm Petur👋</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/petur-ivanov-6b558a275/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/petur.ivanov12/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/petur.ivanov.944" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
   </a>
 </div>
 
-###
+---
 
-<img align="right" height="132" src="https://files.realpython.com/media/Django-Rest-Framework-An-Introduction_Watermarked.7c1075fb2093.jpg"  />
+<img align="right" height="100" src="https://files.realpython.com/media/Django-Rest-Framework-An-Introduction_Watermarked.7c1075fb2093.jpg" />
 
-###
+<p align="left">- 🔭 I’m currently working on [event-manager](https://github.com/PeturIvanov/event-manager)<br>- 📚 I’m currently learning Python, Django, PostgreSQL, Html, CSS<br>- 👨‍🏫 I'm student at SoftUni<br>-⚡ Fun fact: I love self-development and do active sport.</p>
 
-<p align="left">- 🔭 I’m currently working on [event-manager](https://github.com/PeturIvanov/event-manager)<br>- 📚 I’m currently learning Python, Django, PostgreSQL, Html, CSS<br>- ⚡ Fun fact: I love self-development and do active sport.</p>
-
-###
+---
 
 <p align="left">🤖 Languages and Tools I know and learn:</p>
 
@@ -52,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
-###
+---
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Peturivanov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="120" alt="stats graph"  />
