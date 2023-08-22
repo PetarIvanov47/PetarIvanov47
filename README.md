@@ -2,7 +2,7 @@
 
 <img align="right" height="100" src="https://files.realpython.com/media/Django-Rest-Framework-An-Introduction_Watermarked.7c1075fb2093.jpg" />
 
-<p align="left">- 🔭 I’m currently working on [event-manager](https://github.com/PeturIvanov/event-manager)<br>- 📚 I’m currently learning Python, Django, PostgreSQL, Html, CSS<br>- 👨‍🏫 I'm student at SoftUni<br>-⚡ Fun fact: I love self-development and do active sport.</p>
+<p align="left">- 🔭 I’m currently working on "event-manager" - (https://github.com/PeturIvanov/event-manager)<br>- 📚 I’m currently learning Python, Django, PostgreSQL, Html, CSS<br>- 👨‍🏫 I'm student at SoftUni<br>-⚡ Fun fact: I love self-development and do active sport.</p>
 
 ---
 <div align="left">
