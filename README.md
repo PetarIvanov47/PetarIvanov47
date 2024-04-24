@@ -1,4 +1,4 @@
-<h1 align="center">Hi  there, I'm Petur👋</h1>
+<h1 align="center">Hi  there, I'm Petar👋</h1>
 
 <img align="right" height="100" src="https://files.realpython.com/media/Django-Rest-Framework-An-Introduction_Watermarked.7c1075fb2093.jpg" />
 
